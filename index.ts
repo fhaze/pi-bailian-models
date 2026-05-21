@@ -13,6 +13,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 1_000_000,
 		maxTokens: 65_536,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -30,6 +31,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 1_000_000,
 		maxTokens: 65_536,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -47,6 +49,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 262_144,
 		maxTokens: 65_536,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -64,6 +67,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 262_144,
 		maxTokens: 65_536,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -81,6 +85,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 262_144,
 		maxTokens: 65_536,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -98,6 +103,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 262_144,
 		maxTokens: 32_768,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -115,6 +121,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 262_144,
 		maxTokens: 32_768,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -132,6 +139,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 202_752,
 		maxTokens: 16_384,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -149,6 +157,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 202_752,
 		maxTokens: 16_384,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
@@ -166,6 +175,7 @@ const TOKEN_PLAN_MODELS = [
 		contextWindow: 204_800,
 		maxTokens: 131_072,
 		compat: {
+			cacheControlFormat: "anthropic",
 			supportsDeveloperRole: false,
 			supportsReasoningEffort: false,
 			maxTokensField: "max_tokens",
