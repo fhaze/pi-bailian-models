@@ -1,0 +1,36 @@
+{
+  "name": "pi-bailian-models",
+  "version": "2.0.0",
+  "description": "Adds Alibaba Cloud BaiLian Token Plan models to pi with OAuth support",
+  "keywords": [
+    "pi-package",
+    "bailian",
+    "alibaba",
+    "qwen",
+    "deepseek",
+    "kimi",
+    "glm",
+    "models",
+    "oauth",
+    "token-plan"
+  ],
+  "type": "module",
+  "main": "./index.ts",
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "files": [
+    "index.ts",
+    "README.md",
+    "package-lock.json"
+  ],
+  "license": "MIT",
+  "author": "Zhuoru <zhuoruli0516@gmail.com>",
+  "contributors": ["fhaze"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fhaze/pi-bailian-models.git"
+  }
+}
